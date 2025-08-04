@@ -26,3 +26,7 @@ My main goal at the moment is to become a **highly sought-after specialist** in 
 - **Android Development (Kotlin)**
 - **MVVM architecture**
 - **Clean Architecture**
+
+📬 Contact:  
+[My Email](mailto:kugukovd@mail.ru)  
+
