@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**Kugukov/Kugukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer specializing in **Android (Kotlin)** and **Java**.  
+My main goal at the moment is to become a **highly sought-after specialist** in the field I’m passionate about.
 
-Here are some ideas to get you started:
+### 🧠 Education and Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **2019–2023 – Bachelor's Degree**  
+  Studied **Java**, **Python**, **C++**, **C#**, **PHP**, **JavaScript**, **Unreal Engine 4**, **VR** and **AR**.  
+  The main focus was on **Java**, **Android Studio**, and **Python**.
+
+- **2023–2025 – Master's Degree**  
+  Focused on **science-research activities**, with a deeper dive into **Kotlin** and **Artificial Intelligence**.
+
+- **2024–2025 – Software Developer at a Medical College**  
+  While studying, I worked as a programmer at a higher medical college.  
+  My responsibilities included:
+  - Developing a **Telegram bot with training courses for educators**
+  - Creating **utilities to simplify displaying schedules** on remote computers
+  - Providing **IT support** and **system administration**
+  - Managing **audio and music equipment**
+
+### 🌱 I’m currently deepening my knowledge in:
+
+- **Java**
+- **Android Development (Kotlin)**
+- **MVVM architecture**
+- **Clean Architecture**
