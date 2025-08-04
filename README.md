@@ -28,7 +28,7 @@ My main goal at the moment is to become a **highly sought-after specialist** in 
 - **Clean Architecture**
 
 ### :iphone: Pet-projects:  
-[My Fairy Tale - A mobile app for parents to record fairy tales with AI child content control](https://github.com/Kugukov/DissertationProject.git)  
+[My Fairy Tale - A mobile application for parents that allows them to record fairy tales. The app features AI that ensures the safety of children's content.](https://github.com/Kugukov/DissertationProject.git)  
 
 ### 📬 Contact:  
 My Email - [kugukovd@mail.ru](kugukovd@mail.ru)  
