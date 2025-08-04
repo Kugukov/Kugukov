@@ -31,5 +31,5 @@ My main goal at the moment is to become a **highly sought-after specialist** in 
 [My Fairy Tale - A mobile app for parents to record fairy tales with AI child content control](https://github.com/Kugukov/DissertationProject.git)  
 
 ### 📬 Contact:  
-[My Email](kugukovd@mail.ru)  
+My Email - [kugukovd@mail.ru](kugukovd@mail.ru)  
 
