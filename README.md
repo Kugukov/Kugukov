@@ -27,6 +27,9 @@ My main goal at the moment is to become a **highly sought-after specialist** in 
 - **MVVM architecture**
 - **Clean Architecture**
 
-📬 Contact:  
+### :iphone: Pet-projects:  
+[My Fairy Tale - A mobile app for parents to record fairy tales with AI child content control](https://github.com/Kugukov/DissertationProject.git)  
+
+### 📬 Contact:  
 [My Email](mailto:kugukovd@mail.ru)  
 
